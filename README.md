@@ -1,16 +1,16 @@
 # Modulos_SS
 Módulos de interes (Servicio social) provenientes de pypiorg
 
-## Realtpl 
+## Realtpl 0.0.9
 *Obtiene valores de densidad, cp, velocidad de sonido, viscosidad así como calor de conductividad a través de Soave-Redlich-Kwong y los compara con los de coolProp. Por lo tanto aplica para gases reales*
 
-## Kilojoule
+## Kilojoule 0.2.9
 *Funciones de termodinámica así como para transferencia de calor. Además ofrece propiedades*
 
-## SciThermo 
+## SciThermo 0.0.1
 *Propiedades termodinámicas asi como resolver integrales*
 
-## Thermodynamics 
+## Thermodynamics 0.0.85
 *Usar diagramas asi como para cálculos de sustancias puras y en mezcla*
 
 ## CoolProp 6.4.3.post1
