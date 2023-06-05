@@ -10,7 +10,7 @@ Módulos de interes (Servicio social) provenientes de pypiorg
 ## SciThermo 0.0.1
 *Propiedades termodinámicas asi como resolver integrales*
 
-## themopy 0.5.4
+## thermopy2 0.5.9
 *Libreria para el calculo de calor especifico, entalpia, entropia, asi como ofrece datos de temperatura independientes para peso molecular y entalpia de formación*
 
 ## Thermodynamics 0.0.85
